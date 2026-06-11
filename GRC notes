@@ -40,6 +40,65 @@ Power Outages - An event that occurs after a disruption to the system causing it
 Hardware Failures - When the hardware components of computer fail and disrupt access to information 
 (protection) back up components
 
+Identification - Making a claim of identity 
+ex; username
+
+Authentication - Proving a claim of identity 
+ex; password
+
+Authorization - Ensures an action is allowed 
+ex; access
+
+Multifactor Authentication - Combines two different authentication factors
+- Something you KNOW: Passwords, Pins, Questions
+- Something you ARE: Biometrics, Fingerprint, Face Recognition
+- Something you HAVE: Key Phob, Token 
+
+Non Repudiation - Prevents someone from denying the truth 
+ex; Signed contract, Signatures
+
+(PII) Personal Identifiable Info - all information that can be tied back to a specific person 
+
+(PHI) Protected Health Info - Health care info 
+ex; HIPPA
+
+*Risk Management - The process of identifying, assessing, and mitigating potential threats in an organization
+
+Risk assessment - indentifies and evaluates risk 
+
+Threats - external forces that jepoardize security 
+
+Threat Vector - methods used by attackers
+
+Vulnerabilities - weaknesses in your securoty controls 
+
+Risks - a combination of a threat and a vulnerability 
+
+Likelihood - the probabilty a risk will occur
+
+Impact - the amount of damage a risk will cause 
+
+Qualitive Risk Assessment - Uses subjective ratings to evaluate risk, likelihood, and impact
+
+Quanitative Risk Assessment - Uses objective numeric ratings to evaulate risk likelihood and impact
+
+Risk Treatment - Analyzes and implements possible responses to control risk
+
+Risk Avoidance - Changes business practices to make a risk irrelevant
+
+Risk Mitigation - Reduces the likelihood or impact of a risk
+
+Risk Acceptance - The choice to continue operations in the face of a risk
+
+Risk Profile - Set of risks that it faces
+
+Risk Tolerance - The level of risk an organization is willing to accept
+
+
+
+
+
+
 
 
 
