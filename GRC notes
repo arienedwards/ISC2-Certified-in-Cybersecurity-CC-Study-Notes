@@ -94,6 +94,48 @@ Risk Profile - Set of risks that it faces
 
 Risk Tolerance - The level of risk an organization is willing to accept
 
+*Security Controls - Reduce the likelihood or impact of a risk and help identify issues 
+
+Defense of Depth - uses overlapping security controls 
+
+Preventive Controls - stop a security issue from occuring 
+ex; Hardening
+
+Detective Controls - identify security issues requiring investigation 
+ex; Virus Scans
+
+Recovery Controls - Remediate security issues that have occured 
+ex; Backups
+
+Technical Controls - Use technology to achieve control objectives 
+
+Administrative Controls - Use processes to achieve control objectives 
+
+Physical Controls - Impact the physical world 
+
+Configuration Management - Tracks specific device settings
+
+Baselines - Provide a configuration snapshot
+
+Verisoning - Assigns numbers to each version
+
+*Security Governance 
+
+GDPR: General Data Protection Regulation (European Union)
+
+PCI DSS - A private regulation governing credit card information 
+
+*Security Policy Framework
+
+Policies - Describe an organizations security expectations
+
+Standards - Describe specific security controls
+
+Guidelines - Describe best practices (advice)
+
+Procedures - Step by step instructions 
+
+
 
 
 
