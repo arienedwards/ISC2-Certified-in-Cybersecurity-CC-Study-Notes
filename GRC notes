@@ -1,12 +1,47 @@
-Confidentiality - Protects information from unauthorized disclosure
+*Confidentiality - Protects information from unauthorized disclosure
 
 Snooping - Involves gathering information that is left out in the open
 (protection) clean desk policy
 
-Dumpster Diving - intruder looking through trash to try to recover sensitive documents
+Dumpster Diving - Intruder looking through trash to try to recover sensitive documents
 (protection) paper shredding
 
 Eavedropping - Someone positions themselves to listen to secret conversations 
 (protection) closed room meetings 
+
+Wiretapping - When attacker gains access to a network and monitors the data
+(protection) Encryption
+
+Social Engineering - Attacker uses psychological tricks to persuade employee to gain access to internal systems
+(protection) Training and Education for users
+
+*Integrity - Protects information from unauthorized changes
+
+Unauthorized modification - occurs when attacker makes changes without permission 
+(protection) least privelage 
+
+Impersonation - attacker pretends to be someone else
+(protection) user education
+
+Man in the middle - the attacker is placed in the middle of communications
+(protection) encryption
+
+Replay - attacker eavesdrops on logins and reuse the captured credentials
+(protection) encryption
+
+*Availability - Ensures information to authorized users remains available when needed
+
+Denial of Service (DoS) - Attacker bomars network or system with overwhelming amount of traffic
+(protection) Firewalls
+
+Power Outages - An event that occurs after a disruption to the system causing it to lose power
+(protection) Back up generators
+
+Hardware Failures - When the hardware components of computer fail and disrupt access to information 
+(protection) back up components
+
+
+
+
 
 
