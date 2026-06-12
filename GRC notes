@@ -200,6 +200,17 @@ appropiate time
 
 Routine workflow - Disables accounts on a scheduled basis for planned departures
 
+Authorization - Determines what an authenticated user can do
+
+Least Privelage - User should have minumum set of permissions necessary to perform their job
+
+(MAC) Mandatory Access Control - Permissions are determined by the system 
+
+(DAC) Discretionary Access Control - Permissions are determined by file owners
+
+(RBAC) Role-Based Access Control - Grants permissions to groups of people
+
+
 
 
 
