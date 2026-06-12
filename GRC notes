@@ -135,6 +135,72 @@ Guidelines - Describe best practices (advice)
 
 Procedures - Step by step instructions 
 
+(AUP) Acceptible Use Policies - Describe authorized uses of technology 
+
+Data handling policies - Describe how to protect sensitive information 
+
+Password policies - Cover password security practices
+
+(BYOD) Bring Your Own Device policy - cover use of personal devices with company information
+
+Privacy policies - Cover the use of personally identifiable information
+
+Change management policy - Cover the documentation, approval , and rollback of technology changes 
+
+*Business Continuity Planning - the set of controls designed to keep a business running in the face of adversity, 
+whether natural or man-made
+
+High Availabilty - Uses multiple systems to protect against service failure 
+(a cluster or pair of something for redundacy)
+
+Fault Tolerance - makes a single system resilient against technical failures
+(RAID)
+
+Load balancing - Spreads demand across systems
+
+(PDUs) Managing Power Distribution Units - Provide power cleaning and management for a rack
+
+*Incident Response - Provide structure during cybersecurity incidents. 
+(They describe the policies and procedures governing cybersecurity incidents)
+
+IRP eleements: Statement of purpose
+               Strategies and goals for incident response
+               Approach to incident response
+               Communication with other groups 
+               Senior leadership approval
+
+(SIEM) Security Incident and Event Management - Security solution that collects information from diverse sources, analyzes 
+it for signs for security incidents and retains it for later us
+
+*Disaster Recovery - Restores normal operations as quickly as possible
+
+(RTO) Recovery Time Objective - The amount of time to restore service
+
+(RPO) Recovery Point Objective -The amount of data recovered
+
+(RSL) Recovery Service Level - The percentage of service to restore 
+
+Disaster recovery sites - Provide alternate data processing 
+
+Hot site - An exact, fully equipped replica of a business primary computer and data center systems
+
+Cold site - Basic backup location that provides essential infrastructure like power, cooling, and internet
+but no active computer hardware
+
+Warm site - In between hot and cold site
+
+*Logical Access Controls - Digital safety mechanisms that regulate who gets access to computer networks or data 
+
+Job rotation - Moves employees through different positions
+
+Provisioning - After onboarding, administration create authentication credentials and grant appropiate authorization
+
+Deprovionsing - During the offboarding process, administrators disable accounts and revoke authorizations at the 
+appropiate time 
+
+Routine workflow - Disables accounts on a scheduled basis for planned departures
+
+
 
 
 
