@@ -1,0 +1,30 @@
+(LAN) Local Area Network - Connected devices in the same building or area
+
+(WAN) Wide Area Network - Connected across large distances
+
+(PAN) Personal Area Network - Connect personal devices within immediate space 
+ex; bluetooth
+
+(TCP/IP) Transmission Control Protocol/Internet Protocol - Communication protocols used to connect devices and route data
+across the internet and private neworks 
+
+(TCP) Transmission Control Protocol - Breaks data into packets , tracks them during transmission, ensures they are not 
+corrupted, and reassembles at the destination
+
+(IP) Internet Protocol - Ensures data packets know exactly where they are going 
+
+3 Way Handshake: SYN - Open a connection
+                 FIN - closes a connection
+                 ACK - acknowledges a SYN or FIN
+
+
+ computer               SYN                server
+-----------    ---------------------->   -----------
+|         |           SYN/ACK            |         |
+|         |    <----------------------   |         |
+|         |             ACK              |         |
+-----------    --------------------- >   -----------
+
+
+
+
