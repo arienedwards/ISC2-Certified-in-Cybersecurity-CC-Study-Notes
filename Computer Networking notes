@@ -88,6 +88,73 @@ Static IPs - Manually assigned IP address that never changes
 110 - (POP) Post Office Protocol 
 143 - (IMAP) Internet Message Access Protocol
 
+*Wireless Network
+
+(SSID) Service Set Identifier - The technical name of your wifi network 
+
+Preshared Keys - Shared secret or password used in cryptography 
+
+Captive Portals - Provide authentication on unecrypted networks wireless
+
+(WEP) Wired Equivalent Privacy - Wireless security algorithim designed to encrypt all data
+
+(WPA) Wifi Protected Access - A security protocol designed to secure wireless computer networks
+
+(WPA2) Industry standard wifi security protocol
+
+(WPA3) Secured version, Most advanced
+
+*Ping and traceroute
+
+Ping - Checks wether a remote system is responding 
+
+hping - Creates customized ping requests
+
+(tracert) traceroute - Network diagnostic command that maps the exact path data takes from your device to a 
+destination server
+
+pathping - Windows command combining ping and tracert functionality
+
+*Network Threats 
+
+Malware - Malicious Software 
+
+Propagation Mechanism - The techniques malware uses to spread
+
+Payloads - The Malicious actions taken by malware
+
+Virus - malicious software program that infects files or systems, replicating itself by inserting its own code
+
+Worms - Malware spread on its own by exploiting vulnerablilites 
+
+Trojan - A malware that disguises itself as a legitimate, harmless software 
+
+Botnets A network of Hijacked, connected devices secretly controlled by a single entity
+
+Man in The Browser - Attacks exploits flaws in the browsers and browser plugins
+
+Replay Attack - When someone intercepts and fraudulently records data, then resends it to receiver
+(protection) Token, Timestamp
+
+SSl Stripping - Tricks browsers into using unencrypted communications 
+
+Fault Injection attacks - Hardware hacking technique where an attacker temporarily stresses a device to make
+it glitch or malfunction 
+
+Side Channel Attacks - Security exploit that breaks system by observing its physical side effects 
+
+*Threat Detection and Prevention
+
+(IDS) Intrusion Detection System - A system that monitors network traffic for signs of malicious activity 
+
+(IPS) Intrusion Prevention System - A system that blocks malicious activity automatically
+
+False Positive Error - System triggers and alerts when attack did not actually happen 
+
+
+
+
+
 
 
 
