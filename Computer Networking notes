@@ -151,7 +151,34 @@ Side Channel Attacks - Security exploit that breaks system by observing its phys
 
 False Positive Error - System triggers and alerts when attack did not actually happen 
 
+False Negative Error - System fails to trigger an alert when an actual attack occurs
 
+Signature Detection System - A system that scans network traffic for unique digital "fingerprints" of known malware 
+
+Anomaly Detection System - A system that learns what "normal" looks like in your data and flags anything 
+outside of that pattern
+
+*Malware Prevention 
+
+Antimalware - Protects system against many different softwate threats 
+
+Signature Detective - Watches for known patterns of malware activity 
+
+Behavior Detection - Watches for deviations from normal patterns of activity 
+
+(EDR) Endpoint Detection and Response - Advanced security system that constantly monitors devices like laptops, desktops
+and servers
+
+Sandboxing - An isolated digital safezone
+
+Port Scanners - A tool that checks system to see which communication pathways (ports) are open and accepting data
+
+Vulnerability Scanner - A tool that scans your computers, networks for known security weaknesses before hackers can exploit
+
+(nmap) Network Mapper - A tool used to discover devices and understand the security layout of a network
+
+Nessus - widely used vulnerability scanning tool that detects security weaknesses across networks, 
+systems, and applications.
 
 
 
