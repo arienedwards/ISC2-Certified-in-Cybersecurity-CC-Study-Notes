@@ -177,8 +177,136 @@ Vulnerability Scanner - A tool that scans your computers, networks for known sec
 
 (nmap) Network Mapper - A tool used to discover devices and understand the security layout of a network
 
-Nessus - widely used vulnerability scanning tool that detects security weaknesses across networks, 
+Nessus - A widely used vulnerability scanning tool that detects security weaknesses across networks, 
 systems, and applications.
+
+*Network Security Infrastructure
+
+Intranet -Internal and private network exclusive to employees
+
+Extranet - A controlled, restricted extension of that network that grants secure access to trusted outsiders for specific 
+collaborative projects 
+
+Honeynet - Decoy networks designed to attract attackers
+
+Ad Hoc Network - Temporary networks that may bypass security controls
+
+East West Traffic - Network traffic between systems located in the data center
+
+North South Traffic - Network traffic between systems in the data center and systems on the internet 
+
+Switch - A device that connects multiple devices together within a single network (layer 2 and 3)
+
+Routers A device that connects multiple networks, acting as a digital traffic controller 
+
+(VLANs) Virtual LAN - Splits a single network into multiple distinct logical networks 
+ex; Sales network, IT network, Accounting network
+
+Firewall - A device that filters and controls incoming and outgoing network traffic based on security rules
+(switch <--- Router <--- Firewall <--- internet) 
+
+internal network ----- Firewall ------Internet
+                           |
+                           |
+                           | 
+                          DMZ
+
+(DMZ) Demilitarized Zone - An isolated, secure subnetwork acting as a buffer between trusted and untrusted network
+
+Stateless Firewalls - Evaluates each connection and individual packet 
+
+Statfeul Firewall - Tracks entire lifecycle of active connections
+
+Implicit Deny (Default Deny) - Traffic blocked if not allowed by firewall rules 
+
+(VPN) Virtual Private Network - A security tool that creates a secure, encrypted tunnel for yout internet traffic 
+
+VPN Endpoints: Firewalls
+               Routers
+               Servers
+               VPN Concentrators
+
+(IPSec) Internet Protocol Security - A security protocol that authenticates and encrypts data to provide secure 
+communication over IP network
+
+Full Tunnel VPN - All network traffic leaving the connected device is routed through the VPN tunnel, regadless of its 
+final destination
+
+Split Tunnel VPN - Only Traffic destined for the corporate network is sent through the VPN tunnel. Other traffic is 
+routed directly over the internet
+
+(NAC) Network Access Control - A security solution that restricts unauthorized users and devices from accessing 
+a private network (801.1x)
+
+(IoT) Internet of Things - Vast network of physical objects equipped with sensors, software and processing capabilities 
+ex; Smart Devices
+
+Network Segmentation - The practoce of dividing a larger IT network into smaller isolated subnetworks 
+
+*Cloud Computing - Delivering cmputing resources to a remote customer over a network
+
+(SaaS) Software as a Service - Delivering applications remotely over the internet
+
+(IaaS) Infrastructure as a Service - Provide virtual on demand servers, storage, and networks 
+
+(PaaS) Platform as a Service - Provides a platform to build, deploy, and manage applications
+
+Private Cloud - organization uses a dedicated cloud infrastructure
+
+Public Cloud - Uses multitenancy infrastructure 
+
+Hybrid Cloud - Combination of Public and Private cloud
+
+Multi Cloud - Combines 2 Public Cloud vendors
+
+Community Cloud - Shared cloud among multiple organizations
+
+(MSP) Managed Service Provider - Offer IT services to customers
+
+(MSSP) Managed Security Service Provider - Provide security services for other organizations as a managed service 
+(SECaas) security as a Service
+
+(CASB) Cloud Access Security Brokers - A security solution that enforces access policies 
+
+*Data Security
+
+Encryption - Security process taht scarmbles readable data into unreadable format using an algorithm and cryptographic key
+(Plaintext to Ciphertext)
+
+Decryption - Transforms Ciphertext back into Plaintext
+
+Symmetric Cryptography - Encryption method where a single, shared secret key is used to btoh encrypt and decrypt data
+
+Asymmetric cryptography - A widely shared public key for encryption and closely guarded private key for 
+decryption or signing 
+
+Hash Functions - An Algorithm that transform a variable length input into a unique, fixed length output 
+(one-way functions, cant be reversed) 
+
+(MDS) Message Digest Algorithm 5 - Hashing function that converts data of any size into a fixed 128-bit digital figerprint 
+
+(SHA-1) Secure Hash Algorithm - Hashing function that takes an input and produces a fixed 160-bit message digest
+
+(SHA-2) Produces 224, 256, 384, and 512 bits
+
+(SHA-3) Converts any digital input 
+
+(RIPEMD) Produces 128, 160, 256, and 320-bits
+
+(HMAC) Hash Based Message Authentication Code - Combines symmetric cryptography and hashing to provide authentication
+and integrity
+
+*Data Life Cycle 
+                  ---- Create -----
+                  ^               |
+                  |               | 
+               Destroy          Store 
+                  |               |
+               Archive            Use
+                    ----Share <-----
+
+*Social Engineering - 
+
 
 
 
