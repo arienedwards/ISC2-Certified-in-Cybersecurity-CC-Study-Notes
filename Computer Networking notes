@@ -78,7 +78,7 @@ Static IPs - Manually assigned IP address that never changes
 
 *Common Port Lists:
 
-21 - (FTP) File Transer Protocol 
+21 - (FTP) File Transfer Protocol 
 22 - (SSH) Secure Shell 
 23 - (Telnet) Telnet
 25 - (SMTP) Simple Mail Transfer Protocol
@@ -129,7 +129,7 @@ Worms - Malware spread on its own by exploiting vulnerablilites
 
 Trojan - A malware that disguises itself as a legitimate, harmless software 
 
-Botnets A network of Hijacked, connected devices secretly controlled by a single entity
+Botnets - A network of Hijacked, connected devices secretly controlled by a single entity
 
 Man in The Browser - Attacks exploits flaws in the browsers and browser plugins
 
@@ -215,7 +215,7 @@ internal network ----- Firewall ------Internet
 
 Stateless Firewalls - Evaluates each connection and individual packet 
 
-Statfeul Firewall - Tracks entire lifecycle of active connections
+Stateful Firewall - Tracks entire lifecycle of active connections
 
 Implicit Deny (Default Deny) - Traffic blocked if not allowed by firewall rules 
 
@@ -243,7 +243,7 @@ ex; Smart Devices
 
 Network Segmentation - The practoce of dividing a larger IT network into smaller isolated subnetworks 
 
-*Cloud Computing - Delivering cmputing resources to a remote customer over a network
+*Cloud Computing - Delivering computing resources to a remote customer over a network
 
 (SaaS) Software as a Service - Delivering applications remotely over the internet
 
@@ -270,7 +270,7 @@ Community Cloud - Shared cloud among multiple organizations
 
 *Data Security
 
-Encryption - Security process taht scarmbles readable data into unreadable format using an algorithm and cryptographic key
+Encryption - Security process that scrambles readable data into unreadable format using an algorithm and cryptographic key
 (Plaintext to Ciphertext)
 
 Decryption - Transforms Ciphertext back into Plaintext
