@@ -41,13 +41,16 @@ Hardware Failures - When the hardware components of computer fail and disrupt ac
 (protection) back up components
 
 Identification - Making a claim of identity 
-ex; username
+(Claiming Identity)
 
 Authentication - Proving a claim of identity 
-ex; password
+(Verifying Identity)
 
 Authorization - Ensures an action is allowed 
-ex; access
+(Granting Access) 
+
+Accountability - Tracking and recording users activities for auditing, compliance, or billing purposes
+(Tracking Identity) 
 
 Multifactor Authentication - Combines two different authentication factors
 - Something you KNOW: Passwords, Pins, Questions
@@ -163,11 +166,23 @@ Load balancing - Spreads demand across systems
 *Incident Response - Provide structure during cybersecurity incidents. 
 (They describe the policies and procedures governing cybersecurity incidents)
 
+Incident Response process phases - Preparation --> Detection & Analysis --> Post incident activity -->
+Containment, Eradication, and Recovery --> Post Incident Activity 
+
+Patch Management Lifecycle - Asset Discovery --> Vulnerability --> Patch Acquisition -->
+Patch Validation --> Patch Deployment --> Reporting
+
 IRP elements: Statement of purpose
                Strategies and goals for incident response
                Approach to incident response
                Communication with other groups 
                Senior leadership approval
+
+(SLA) Service Level Agreement - A contract between a provider and a customer that includes provisions
+around performance, availability, security , response times, and accountability 
+
+Need To Know - Access to a resource should only be granted to a user who requires access to the resource
+in order to perform a business function 
 
 (SIEM) Security Incident and Event Management - Security solution that collects information from diverse sources, analyzes 
 it for signs for security incidents and retains it for later us
@@ -200,15 +215,23 @@ appropiate time
 
 Routine workflow - Disables accounts on a scheduled basis for planned departures
 
-Authorization - Determines what an authenticated user can do
+Authorization - (Tracking Identity) Determines what an authenticated user can do
 
 Least Privelage - User should have minumum set of permissions necessary to perform their job
 
-(MAC) Mandatory Access Control - Permissions are determined by the system 
+(MAC) Mandatory Access Control - Permissions are determined by the hierarchy and security level (military)
 
 (DAC) Discretionary Access Control - Permissions are determined by file owners
 
-(RBAC) Role-Based Access Control - Grants permissions to groups of people
+(RBAC) Role-Based Access Control - Grants permissions based on specific roles
+
+(ABAC) Attribute-Based Access Control - Grants permissions based on attributes 
+
+
+
+
+
+
 
 
 
