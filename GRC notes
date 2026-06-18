@@ -170,7 +170,7 @@ Load balancing - Spreads demand across systems
 *Incident Response - Provide structure during cybersecurity incidents. 
 (They describe the policies and procedures governing cybersecurity incidents)
 
-Incident Response process phases - Preparation --> Detection & Analysis --> Post incident activity -->
+Incident Response process phases - Preparation --> Detection & Analysis --> 
 Containment, Eradication, and Recovery --> Post Incident Activity 
 
 Patch Management Lifecycle - Asset Discovery --> Vulnerability --> Patch Acquisition -->
