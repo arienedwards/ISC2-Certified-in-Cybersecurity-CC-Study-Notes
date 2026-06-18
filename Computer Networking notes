@@ -327,6 +327,44 @@ Pharming - Using fake websites to obtain info
 
 Vishing - Voice Phishing 
 
+Sanitization - The process that remove, clean, or destroy data to prevent unauthorized access,
+system vulnerabilities, or traces of malicious activity
+
+Degaussing - Purge level sanitization method that uses magnetic field to randomize the magnetic
+storage media, making stored data unrecoverable
+(Magnetic)
+
+Zeroization - The erasure of sensitive parameters such as cryptographic keys, credentials, or other
+critical security data from a device to prevent their recovery if the device is captured or comprimised
+(Cryptography)
+
+Disintegration - a physical destruction method used to permanently remove data from storage media
+by shredding the device into small, in recoverable fragments
+(Physical Shredding)
+
+Overwriting - Software based data sanitization method that replaces every bit of stored data with a new pattern
+so that the original information becomes unrecoverable to standard recovery tools
+(Replacing Data)
+
+(NTP) Network Time Protocol - A protocol used to synchronize the time on different computers over a network
+(Synchronize Time)
+
+(ARP) Address Resolution Protocol – A protocol used to find the physical (MAC) address of a device from its 
+IP address on a local network.
+(Find MAC address)
+
+(SFTP) Secure File Transfer Protocol – A secure way to transfer files over a network. 
+(Securely transfer files)
+
+(AES) Advanced Encryption Standard – A method used to encrypt (lock) data. 
+(Encrypt data)
+
+(SSL/TLS) Secure Socket Layer / Transport Layer Security – Technology that protects data while it travels over the internet. 
+(Encrypted Tunnel)
+
+Ping Attack –  type of cyberattack that exploits ICMP messages to overwhelm or crash a target system, 
+often resulting in a denial-of-service.
+(DDOS using ICMP)
 
 
 
