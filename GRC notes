@@ -173,7 +173,7 @@ Load balancing - Spreads demand across systems
 Incident Response process phases - Preparation --> Detection & Analysis --> 
 Containment, Eradication, and Recovery --> Post Incident Activity 
 
-Patch Management Lifecycle - Asset Discovery --> Vulnerability --> Patch Acquisition -->
+Patch Management Lifecycle - Asset Discovery --> Vulnerability Assessment --> Patch Acquisition -->
 Patch Validation --> Patch Deployment --> Reporting
 
 IRP elements: Statement of purpose
