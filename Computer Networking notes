@@ -366,6 +366,22 @@ Ping Attack –  type of cyberattack that exploits ICMP messages to overwhelm or
 often resulting in a denial-of-service.
 (DDOS using ICMP)
 
+Security Design 
+
+Fail-safe – The door unlocks when power is lost. Used when people must be able to exit easily during an emergency. 
+(Unlocks when power lost)
+
+Fail-secure – The door stays locked when power is lost. Used when security is more important than free access. 
+(Locked when power lost)
+
+Fail-open – The door remains open or unlocked during a failure (such as loss of power or system malfunction). 
+(Unlocked during failure)
+
+Fail-closed – (sometimes called fail-locked): The door remains closed or locked during a failure.
+(Locked during failure)
+
+
+
 
 
 
