@@ -97,6 +97,10 @@ Risk Profile - Set of risks that it faces
 
 Risk Tolerance - The level of risk an organization is willing to accept
 
+Segregation of Duties - Allocating tasks and associated privileges for a business process to multiple
+staff members to ensure that no single person has control over all aspects of a critical transaction or process
+(No single person control) 
+
 *Security Controls - Reduce the likelihood or impact of a risk and help identify issues 
 
 Defense of Depth - uses overlapping security controls 
