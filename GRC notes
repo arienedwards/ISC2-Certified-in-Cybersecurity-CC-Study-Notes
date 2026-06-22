@@ -231,6 +231,15 @@ Least Privelage - User should have minumum set of permissions necessary to perfo
 
 (ABAC) Attribute-Based Access Control - Grants permissions based on attributes 
 
+(BIA) Business Impact Analysis - A systematic process that identifies critical business functions and 
+evaluates the potential consequences of disruptions to help organizations prioritize recovery and continuity efforts.
+
+Access Control Matrix - A table containing a set of subjects, objects, and permissions used by systems to implement rules, 
+define access control permissions, and enforce DAC
+
+The capabilities list - a structured set of defined abilities, functions, or competencies that an organization, team, or 
+individual must have to effectively protect information, systems, and infrastructure from threats. 
+
 
 
 
