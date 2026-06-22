@@ -380,11 +380,34 @@ Fail-open – The door remains open or unlocked during a failure (such as loss o
 Fail-closed – (sometimes called fail-locked): The door remains closed or locked during a failure.
 (Locked during failure)
 
+(XSS) Cross-site scripting - an attack that allows an attacker to execute malicious code via a victims browser
 
+Call Trees - a communication protocol designed to quickly relay information to a large group of people in an organized manner.
 
+Buffer Overflow Attack - a form of application attack where an attacker deliberately sends more data to a program’s buffer than it 
+can handle, causing the excess data to overwrite adjacent memory. 
 
+Exposure - the potential risk an organization faces due to its digital assets being vulnerable to threats, combining 
+both the likelihood of exploitation and the potential impact.
 
+(CIDR) Classless Inter-Domain Routing - a method for allocating IP addresses and routing IP packets.
 
+Types of Backups:
+Full Backup - Creates a complete copy of all selected data, including files, folders, and system information, 
+regardless of whether the data has changed since the last backup
+
+Differential – captures all data that has changed since the last full backup
+
+Incremental- saves only the data that has changed since the most recent backup, whether full or incremental 
+
+Timing Attack - a side-channel attack where an attacker infers sensitive information by measuring the time a 
+system takes to process different inputs.
+
+Secure configuration baselines - a set of recommended configuration settings designed to enhance the security posture of 
+devices, applications, and systems. These baselines are typically created by security experts and are tailored to mitigate contemporary 
+threats while ensuring operational efficiency.
+
+Root Kit - a stealthy form of malware designed to provide attackers with privileged, persistent, and hidden access to a compromised system.
 
 
 
