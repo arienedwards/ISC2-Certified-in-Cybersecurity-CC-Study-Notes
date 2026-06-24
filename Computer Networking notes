@@ -32,18 +32,25 @@ ex; Streaming
 *OSI MODEL
 
 1. Physical Layer:  Wires, Radios, Optics
+(How is it physically moving?)
 
 2. Data Link Layer: Data Transfers between two nodes
+(Which local device gets it next?)
 
 3. Network Layer:   Internet Protocol (IP)
+(Which city/network is it going to)
 
 4. Transport Layer: TCP and UDP
+(Did all pieces arrive?)
 
 5. Session Layer:   Exchanges between systems
+(I the conversation active)
 
 6. Presentation Layer: Data Translation and encryption
+(Is it encrypted)
 
 7. Application Layer:  User Programs
+(What am I sending?)
 
 
 *TCP Model
