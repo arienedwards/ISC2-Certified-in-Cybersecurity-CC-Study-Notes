@@ -44,7 +44,7 @@ ex; Streaming
 (Did all pieces arrive?)
 
 5. Session Layer:   Exchanges between systems
-(I the conversation active)
+(Is the conversation active)
 
 6. Presentation Layer: Data Translation and encryption
 (Is it encrypted)
