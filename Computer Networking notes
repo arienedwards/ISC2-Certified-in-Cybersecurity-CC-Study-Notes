@@ -52,17 +52,22 @@ ex; Streaming
 7. Application Layer:  User Programs
 (What am I sending?)
 
-
 *TCP Model
 
 1. Network Interface Layer
+- Physical
+- Data Link
 
 2. Internet Layer 
+- Network
 
 3. Transport Layer 
+- Transport
 
 4. Application Layer
-
+- Session
+- Presentation
+- Application
 
 *IP ADDRESS/DHCP
 
