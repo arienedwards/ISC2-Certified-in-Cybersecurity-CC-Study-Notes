@@ -83,9 +83,41 @@ Impact - the amount of damage a risk will cause
 
 Qualitive Risk Assessment - Uses subjective ratings to evaluate risk, likelihood, and impact
 
-Quanitative Risk Assessment - Uses objective numeric ratings to evaulate risk likelihood and impact
+Quantitative Risk Assessment - Uses objective numeric ratings to evaulate risk likelihood and impact
+
+Quantitative Risk Analysis - This is used to calculate the Single Loss Expectancy. The estimated monetary loss from a 
+single occurence of a specific risk event
+
+(AV x EF = SLE)
+
+(AV) Asset Value - The dollar value assigned to an asset, including both direct costs and indirect costs
+- Direct Costs (purchase price)
+- Indirect Costs (downtime, data loss, regulatory fines)
+
+(EF) Exposure Factor - The percentage of the asset's value that would be lost or damaged if the threat were realized.
+It os expressed as a decimal 
+( 100% loss = 1,00, 50% loss = 0.50) 
+
+(SLE) Single Loss Expectancy - The total estimated loss from a single incident calculated by multiplying AV by EF 
+
+Subject - A subject is an entity that initiates an action or request to access a resource.
+- A user 
+- A process or application
+- A device 
+
+Object - An object is the resource that the subject wants to access. It is passive - it is the target of the subjects action.
+- Files
+- Documents
+- Databases
+- Applications
+- Network Devices
+- Hardware or Software Assets
 
 Risk Treatment - Analyzes and implements possible responses to control risk
+- Transfer
+- Avoid 
+- Mitigate 
+- Remediate 
 
 Risk Avoidance - Changes business practices to make a risk irrelevant
 
@@ -156,6 +188,14 @@ Change management policy - Cover the documentation, approval , and rollback of t
 
 *Business Continuity Planning - the set of controls designed to keep a business running in the face of adversity, 
 whether natural or man-made
+
+Business Continuity Phases:
+
+1. Analysis - The initial phase that involves idenifying potential risks and assesing their impact on business operations. 
+This analysis helps organizations understand vulnerabilities and prioritize their response efforts
+
+2. Planning - Planning 
+
 
 High Availabilty - Uses multiple systems to protect against service failure 
 (a cluster or pair of something for redundacy)
@@ -239,6 +279,8 @@ define access control permissions, and enforce DAC
 
 The capabilities list - a structured set of defined abilities, functions, or competencies that an organization, team, or 
 individual must have to effectively protect information, systems, and infrastructure from threats. 
+
+
 
 
 
