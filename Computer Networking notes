@@ -396,6 +396,9 @@ Fail-closed – (sometimes called fail-locked): The door remains closed or locke
 
 Call Trees - a communication protocol designed to quickly relay information to a large group of people in an organized manner.
 
+A buffer is a temporary area of memory used to hold data while it is being transferred or processed. Buffers help accommodate differences in the 
+speed at which different components send, receive, or process data.
+
 Buffer Overflow Attack - a form of application attack where an attacker deliberately sends more data to a program’s buffer than it 
 can handle, causing the excess data to overwrite adjacent memory. 
 
