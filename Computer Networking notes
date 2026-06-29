@@ -421,7 +421,43 @@ threats while ensuring operational efficiency.
 
 Root Kit - a stealthy form of malware designed to provide attackers with privileged, persistent, and hidden access to a compromised system.
 
+Disk Mirroring - involves replicating data from one hard drive to another so that both drives contain
+identical information 
 
+Script kiddie - A novice hacker who relies on existing scripts, programs, or software created by others
+to perform cyberattacts, rather than developing their own tools or understanding the underlying systems
+
+Rainbow Tables - a precomputed table that stores the results of cryptographic hash functions for a large set of
+possible passowords, allowing attackers to efficiently recover plaintext passwords from their hashed values
+without performing brute-force calculations in real time
+
+Data Lifecyle:
+
+1. Data Generation - Identify and create data from different sources such as customer interactions, transactions,
+or IoT devices
+
+2. Data Collection - Gather relevant data using methods like surveys, web scraping, API's, or direct observation.
+Ensure the data aligns with project goals
+
+3. Data Processing - Clean and transform raw data into usable formats. This includes removing duplicates, correcting errors,
+and standardizing formats
+
+4. Data Storage - Store processed data securely in databases, data warehouse, or cloud storage. Implement redundancy to
+protect against data loss
+
+5. Data Management - Organize and maintain data throughout the project. Apply governance policies, monitor quality,
+and ensure secure access
+
+6. Data Analysis - Use statistical models, machine learnning, or AI to extract insights. Tailor the analysis to address
+specific business objectives
+
+7. Data Visualization - Create graphical representations like charts, dashboards, or heat maps to communicate findings effectively
+
+8. Data Interpretation - Review visualizations and analysis to draw actionable conclusions. Present insights to stakeholders to
+guide decision-making
+
+Buffer zones - a controlled, isolated area between an organizations internal network and untrusted external
+networks (such as the internet) that acts as a security barrier to limit the impact of threats
 
 
 
