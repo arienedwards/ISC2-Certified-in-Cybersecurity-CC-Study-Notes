@@ -194,8 +194,22 @@ Business Continuity Phases:
 1. Analysis - The initial phase that involves idenifying potential risks and assesing their impact on business operations. 
 This analysis helps organizations understand vulnerabilities and prioritize their response efforts
 
-2. Planning - Planning 
+2. Planning - Planning outlines strategies for maintaining and restoring business functions during a disruption. Its includes
+communication plans, recovery site arrangements, and resource allocation to ensure that essential operations can continue
 
+3. Implementation - The strategies and plans outlined are put into action. Includes training staff, establishing emergency procedures,
+and ensuring that necessary resource are in place. 
+
+4. Testing and Exercise - Involves conducting drills and simulations to assess the plan's functionality and identify areas for
+improvement. Testing helps organizations refine their response strategies and ensure that employees are familiar with their 
+roles during a disruption
+
+5. Maintenance - This phase involves regularly reviewing and updating the BCP to reflect changes in the organization, its enviroment,
+or the risks it faces. Continuous maintenance ensures that the plan remains relevant and effective in addressing
+potential disruptions
+
+Two Person Rule - a safety and security protocol that requires the presence of two authorized individuals to perform
+certain tasks, ensuring accountability and reducing risks in critical operations 
 
 High Availabilty - Uses multiple systems to protect against service failure 
 (a cluster or pair of something for redundacy)
